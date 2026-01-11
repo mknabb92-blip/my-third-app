@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mknabb92-blip/my-third-app/issues"
   },
-  "homepage": "https://github.com/mknabb92-blip/my-third-app#readme"
+  "homepage": "https://github.com/mknabb92-blip/my-third-app#readme",
+  "dependencies": {
+    "react-router-dom": "^7.12.0"
+  }
 }
